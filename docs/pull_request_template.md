@@ -1,5 +1,7 @@
 ## Related Issue
-(feat(api)-<issue-id>-<description>)(#<issue-id>)
+<!-- REPLACE <ISSUE-ID> <ISSUE-TITLE> <ISSUE-LINK> --->
+<!-- ex: [feat(api)-1-dummy-issue](#1) --->
+[feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](<ISSUE-LINK>)
 
 ## Overview
 _Summary of the issue here_

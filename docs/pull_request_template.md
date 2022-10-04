@@ -1,10 +1,9 @@
-## Related Issue
 <!-- REPLACE <ISSUE-ID> <ISSUE-TITLE> <ISSUE-LINK> --->
 <!-- ex: <ISSUE-ID> ~ 1 --->
 <!-- ex: <ISSUE-TITLE> ~ dummy-issue --->
 <!-- ex: <ISSUE-LINK> ~ #1 --->
 <!-- All together: [feat(api)-1-dummy-issue](#1) --->
-[feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](<ISSUE-LINK>)
+# [feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](<ISSUE-LINK>)
 
 ## Overview
 _Summary of the issue here_

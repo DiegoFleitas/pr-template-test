@@ -1,5 +1,5 @@
 ## Related Issue
-DiegoFleitas/pr-template-test#<ISSUE-ID>
+(feat(api)-<issue-id>-<description>)(#<issue-id>)
 
 ## Overview
 _Summary of the issue here_

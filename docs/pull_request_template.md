@@ -2,7 +2,7 @@
 <!-- ex: 1 dummy-issue #1 --->
 <!-- All together: [feat(api)-1-dummy-issue](DiegoFleitas/pr-template-test#1) --->
 
-# [feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](DiegoFleitas/pr-template-test#1)
+# [feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](DiegoFleitas/pr-template-test#<ISSUE-ID>)
 
 
 ## Overview

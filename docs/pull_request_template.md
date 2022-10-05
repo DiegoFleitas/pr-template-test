@@ -1,8 +1,8 @@
 <!-- REPLACE <ISSUE-ID> <ISSUE-TITLE> --->
 <!-- ex: 1 dummy-issue --->
-<!-- All together: [feat(api)-1-dummy-issue](DiegoFleitas/pr-template-test/issues/1) --->
+<!-- All together: [feat(api)-1-dummy-issue](../issues/1) --->
 
-# [feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](DiegoFleitas/pr-template-test/issues/<ISSUE-ID>)
+# [feat(api)-<ISSUE-ID>-<ISSUE-TITLE>](../issues/<ISSUE-ID>)
 
 
 ## Overview
